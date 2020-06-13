@@ -1,6 +1,6 @@
-function Mouse(){
-    name: "Mickey";
-    age: 1
+function Cat(){
+    name = "Kitty";
+    age = 1 ;
 }
 
 module.exports = "Cat";

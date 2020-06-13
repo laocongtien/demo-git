@@ -1,8 +1,9 @@
-function Dog(){
-    name: "pull"
+function Dog(name){
+    this.name= name;
+    this.stomas = [];
 }
 
-v1
-v2
-v3
+dog.prototype.eat = function (cat){
+    this.stomas.push(cat);
+};
 module.exports = "Dog";
