@@ -13,4 +13,9 @@ This is demo how to use git v2
 // staging area
 // git repository
 
-//
+// git checkout -- <file name>
+// git reset
+
+// git checkout -b <branch>
+// git checkout <branch>
+// git merge
