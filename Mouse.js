@@ -1,3 +1,4 @@
 function Cat() {
-    name: "Tom"
+    name: "Tom";
+    age: 12
 }
