@@ -1,3 +1,4 @@
 function Mouse(){
-    name: "Mickey"
+    name: "Mickey";
+    age: 1
 }
