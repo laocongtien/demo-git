@@ -3,4 +3,6 @@ function Dog(){
 }
 
 v1
+v2
+v3
 module.exports = "Dog";
