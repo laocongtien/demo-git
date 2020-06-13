@@ -1,6 +1,6 @@
 function Mouse() {
-    name= "Tom";
-    age= 12;
+    this.name= "Jerry";
+    this.age= 12;
 }
 
-module.exports = "Mouse";
+module.exports = Mouse;
